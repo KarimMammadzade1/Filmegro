@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/drawable/appLogo_background.xml" value="0.115625" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/film_item_row.xml" value="0.2" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/fragment_film_details.xml" value="0.264" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/fragment_hom.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/fragment_home_screen.xml" value="0.2" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/layout/rating_item_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/mipmap-anydpi-v26/appLogo.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/mipmap-anydpi-v26/applogo.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/student15/AndroidStudioProjects/Filmegro/app/src/main/res/mipmap-anydpi-v26/applogo_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
